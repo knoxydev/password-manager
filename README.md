@@ -14,5 +14,5 @@ Password Manager written on Python 3.9.0
  - #exit - Exit the programm
 
 
-### Визуализация базы данных
+### Database visualization
 ![alt text](screendb.png)
