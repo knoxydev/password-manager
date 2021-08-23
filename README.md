@@ -15,4 +15,4 @@ Password Manager written on Python 3.9.0
 
 
 ### Визуализация базы данных
-![alt text]()
+![alt text](screendb.png)
