@@ -2,7 +2,7 @@
 
 Password Manager written on Python 3.9.0
 
-Commands:
+#### Commands:
  - #help - Shows a list of commands
  - #add - Add a element in a data base
  - #get - Get data from database
