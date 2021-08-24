@@ -1,6 +1,6 @@
 ## Password Manager
 
-Password Manager written on Python 3.9.0
+Password Manager written on Python 3.9.0\n
 The data is stored locally, a database is used for this - SQLite
 
 ### Commands:
